@@ -73,14 +73,14 @@ A list of hobbies with intiail cost, montly cost and required time.
       <!-- Hobby --><td>Dungeon and dragons as player</td>
       <!-- Initial cost --><td>0$ if your DM have books</td>
       <!-- Montly cost --><td>From 0$ to infinity on new miniatures</td>
-      <!-- Required time --><td>One adventure require from 3 to 1infinity hours, can be weekly, montly or whatever you want</td>
+      <!-- Required time --><td>One adventure require from 3 to infinity hours, can be weekly, montly or whatever you want</td>
       <!-- AddiComments and linkstional --><td></td>
     </tr>
     <tr>
       <!-- Hobby --><td>Dungeon and dragons as Dungeon Master</td>
       <!-- Initial cost --><td>From 150$ on books</td>
       <!-- Montly cost --><td>From 0$ to infinity on books, adventures and miniatures and terrain</td>
-      <!-- Required time --><td>One adventure require from 3 to 1infinity hours, can be weekly, montly or whatever you want</br>
+      <!-- Required time --><td>One adventure require from 3 to infinity hours, can be weekly, montly or whatever you want</br>
       You should prepare for adventure for at least one hour</td>
       <!-- AddiComments and linkstional --><td></td>
     </tr>
