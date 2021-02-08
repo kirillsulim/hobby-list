@@ -2,6 +2,29 @@
 
 A list of hobbies with intiail cost, montly cost and required time.
 
+## Tastings
+
+<table>
+  <thead>
+    <tr>
+      <th>Hobby</th>
+      <th>Initial cost $</th>
+      <th>Montly cost $</th>
+      <th>Required time</th>
+      <th>Comments and links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <!-- Hobby --><td>Drink elite craft beer</td>
+      <!-- Initial cost --><td>From 3$ per bottle or can</td>
+      <!-- Montly cost --><td>About 50$ for one tasting per week of 4 beers to infinity</td>
+      <!-- Required time --><td>From 2 hours a week to infinity</td>
+      <!-- AddiComments and linkstional --><td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Music
 
