@@ -20,7 +20,10 @@ A list of hobbies with intiail cost, montly cost and required time.
       <!-- Initial cost --><td>From 3$ per bottle or can</td>
       <!-- Montly cost --><td>About 50$ for one tasting per week of 4 beers to infinity</td>
       <!-- Required time --><td>From 2 hours a week to infinity</td>
-      <!-- AddiComments and linkstional --><td></td>
+      <!-- AddiComments and linkstional --><td>
+      http://untappd.com/ — beer lovers social network<br />
+      https://www.ratebeer.com/ — guide to the world of beer
+      </td>
     </tr>
   </tbody>
 </table>
